@@ -1,0 +1,48 @@
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csprojAssemblyReference.cache
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfo.cs
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.exe
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.deps.json
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.json
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.dev.json
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.pdb
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.pdb
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.exe
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.deps.json
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.json
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.dev.json
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.pdb
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csprojAssemblyReference.cache
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfo.cs
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Security\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.pdb
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.exe
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.deps.json
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.json
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.dev.json
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.pdb
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csprojAssemblyReference.cache
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfo.cs
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Security - Copy\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.pdb
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.exe
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.deps.json
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.json
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.runtimeconfig.dev.json
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\bin\Debug\netcoreapp3.0\Portocall.pdb
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csprojAssemblyReference.cache
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.AssemblyInfo.cs
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.dll
+C:\Users\lukep\Desktop\Boomerang\Portocall\Portocall\obj\Debug\netcoreapp3.0\Portocall.pdb

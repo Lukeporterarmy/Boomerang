@@ -1,0 +1,22 @@
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.deps.json
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.runtimeconfig.json
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.runtimeconfig.dev.json
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.dll
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.pdb
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.csprojAssemblyReference.cache
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.AssemblyInfoInputs.cache
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.AssemblyInfo.cs
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.dll
+C:\Users\Luke\Documents\Portocall\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.pdb
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.deps.json
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.runtimeconfig.json
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.runtimeconfig.dev.json
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.dll
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\bin\Debug\netcoreapp2.1\Portocall.pdb
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.csprojAssemblyReference.cache
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.AssemblyInfo.cs
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.dll
+C:\Users\lukep\Desktop\Security Project\Portocall\Portocall\obj\Debug\netcoreapp2.1\Portocall.pdb
