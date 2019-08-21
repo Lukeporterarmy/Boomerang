@@ -2,8 +2,6 @@
 
 License is located at the top of the directory.
 
-Version 1.0
-
 This is a proof of concept, however, the project can be adapted for customers and customized so that it can have a wide range of adaptability.
 
 This is a network authenticated, software locking, server to client relationship. This particular project is an installer. This involves use of asynchronous encryption, round robin encryption, network authentication, software dependency change, software locking, and boomeranging software.
