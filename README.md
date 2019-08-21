@@ -2,7 +2,7 @@
 
 ## License is located at the top of the directory.
 
-Why do you want this? First of all, its something completely unique to each company. It also uses techniques not commonly practiced without the use of licensing software to accomplish similiar tasks. It gives you complete control to customer software with piece of mind that source code is not involved. Software locks are a safe way to access applications remotely without a constant connection being established. From a security standpoint, there is less network interaction in general, leading to less of a footprint overall. This makes this combination of industry techniques a interesting viable cost saving feature. This means that company infrastructure would not need constant support to interact with customer application deployments saving money.
+Why do you want this? First of all, its something completely unique to each company. It also uses techniques not commonly practiced without the use of licensing software to accomplish similiar tasks. It gives you complete control to customer software with piece of mind that source code is not involved. Software locks are a safe way to access applications remotely without a constant connection being established. From a security standpoint, there is less network interaction in general, leading to less of a footprint overall. This makes this combination of industry techniques an interesting viable cost saving feature. This means that company infrastructure would not need constant support to interact with customer application deployments saving money.
 
 This is a proof of concept, however, the project can be adapted for customers and customized so that it can have a wide range of adaptability.
 
