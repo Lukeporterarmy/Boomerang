@@ -12,7 +12,7 @@ This software also has uses for law enforcement.
 
 This is a proof of concept, however, the project can be adapted for customers and customized so that it can have a wide range of adaptability.
 
-This is a network authenticated, software locking, software distribution system. This particular project is an installer. This involves use of asynchronous encryption, round robin encryption, network authentication, software dependency change, software locking, and boomeranging software.
+This is a network authenticated, software locking, server client relationship. This particular project is an installer. This involves use of asynchronous encryption, round robin encryption, network authentication, software dependency change, software locking, and boomeranging software.
 
 As an installer this project links between the unknown and known by the client application. The client starts out dependant on the installer, then the client gains control of itself analytically but it is left with remnants from the installer. The installer has a neat trick to recapture the client using a locking feature and some various techniques. The analytical dependency will be implemented in production, with dependency being introduced locally as code or over the network in the form of an IP address as another example. In this proof of concept, the program will unlock and create files that will introduce the code locally, which in this case is code that will have a reference to the new dependency.
 
