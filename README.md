@@ -1,5 +1,7 @@
 # Project Boomerang
 
+## Video whiteboard: bit.ly/videoboomerang
+
 ## License is located at top of the directory.
 
 ### Whiteboard conceptual outline is located at top of the directory.
