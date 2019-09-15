@@ -1,0 +1,4 @@
+C:\Users\lukep\Desktop\BoomerangPackage\BoomerangPackage\obj\Debug\netcoreapp3.0\BoomerangPackage.csprojAssemblyReference.cache
+C:\Users\lukep\Desktop\BoomerangPackage\BoomerangPackage\obj\Debug\netcoreapp3.0\BoomerangPackage.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\BoomerangPackage\BoomerangPackage\obj\Debug\netcoreapp3.0\BoomerangPackage.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\BoomerangPackage\BoomerangPackage\obj\Debug\netcoreapp3.0\BoomerangPackage.AssemblyInfo.cs
