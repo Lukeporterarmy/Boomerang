@@ -5,9 +5,10 @@ namespace BoomerangPackage
     //Massively scalable version of this idea.
     //Pick between one of three roles for your program.
 
-    //Start point
-    //SharedClient means the server shares with the client something
-    //Layer1Decryptor means there is a shared layer 1 encryption on a decryptor.
+    //(current state)Encrypt(private or shared keys)Shared(shared with)Client(first level of encryption)SharedLayer1(the destination of the object)Auth(object name)Decryptor
+
+
+
     interface IServer<T>
     {
         T Seed { get; set; }
