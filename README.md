@@ -6,7 +6,7 @@
 
 ## Working Software is the actual software that can execute.
 
-### IBoomerang is a way to easily read functions as interfaces of the original Working Software.
+### IBoomerang is a way to easily read functions, as interfaces, of the original Working Software.
 
 ### Whiteboard conceptual outline is located at top of the directory.
 
