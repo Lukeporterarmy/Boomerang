@@ -10,9 +10,9 @@ namespace BoomerangPackage
         //(current state)Encrypt(private or shared keys)Shared(shared with)Client(first level of encryption)SharedLayer1(object name)Decryptor
 
         string DecryptedLayer1DecryptorFromServer { get; set; }
-        T DecryptedLayer3PositionalDataFromClient { get; set; } //allows the three way decryption relationship between IServer, IClient, and IAuth
-        T DecryptedLayer2PositionalDataFromClient { get; set; }
-        List<int> PositionalDataDecryptedFromClientDecryptor { get; set; }
+        T DecryptedLayer3PointerDataFromClient { get; set; } //allows the three way decryption relationship between IServer, IClient, and IAuth
+        T DecryptedLayer2PointerDataFromClient { get; set; }
+        List<int> PointerDataDecryptedFromClientDecryptor { get; set; }
 
         //shared cryptography with server on demand and client internally and has a round robin encryption relationship. This would be a function more than a constant connection
         //it would exist in a semi-partial state
@@ -24,12 +24,12 @@ namespace BoomerangPackage
         T DecryptLayer2ClientSharedDecryptor(T layer2EncryptedSharedClientDecryptorFromClient);
 
 
-        T DecryptClientLayer3PositionalData(T encryptedSharedClientServerPositionalData);
-        T DecryptClientLayer2PositionalData(T encryptedSharedServerPositionalData);
-        string DecryptClientLayer1PositionalData(T encryptedRoundRobinDecryptionPositionalData);
-        void DecryptClientLayer1PositionalData();
+        T DecryptClientLayer3PointerData(T encryptedSharedClientServerPointerData);
+        T DecryptClientLayer2PointerData(T encryptedSharedServerPointerData);
+        string DecryptClientLayer1PointerData(T encryptedRoundRobinDecryptionPointerData);
+        void DecryptClientLayer1PointerData();
         void DecryptDecryptorServerData();
 
-        void SendDataToClient(T positionalData);
+        void SendDataToClient(T PointerData);
     }
 }

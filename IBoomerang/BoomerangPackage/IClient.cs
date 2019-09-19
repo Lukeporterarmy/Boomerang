@@ -10,11 +10,12 @@ namespace BoomerangPackage
         long FinalKey { get; set; }
         static byte[] HashFinalKey { get; }
         static byte[] HashOperators { get; }
-        static byte[] PositionalDataHash { get; }
+        static byte[] PointerDataHash { get; }
+        List<int> PointerData { get; set; }
+        static List<int> ActualPositionData { get; set; }
         List<T> seedDataList { get; set; }
         static T SharedData { get; }
         static byte[] HashSharedKey { get; set; }
-        List<int> positions { get; set; }
 
         T EncryptedAuthDecryptor { get; }
 
@@ -33,19 +34,20 @@ namespace BoomerangPackage
         void NormalWorkflow();
 
 
-        void AwaitDataFromServerToAuthenticator(T seedPart);
+        void AwaitDataFromServer(T seedPart);
 
-        T EncryptionForIAuth(List<T> seedDataList);
+        T EncryptionForAuth(List<T> seedDataList);
 
-        void SendDataToAuth(T seedDataList, T encryptedAuthDecryptor);
+        void SendDataToAuth(T encryptedAuthDecryptor);
 
-        T AwaitDataAuth();
+        List<int> AwaitDataAuth();
 
-        void ReceiveAuthSupportingEvidence(List<int> positions);
+        //primary data being passed as supporting evidence for a trusted relationship
+        void ReceiveAuthSupportingEvidence(List<int> pointerData);
         void GatherServerSupportingEvidence(List<T> seedDataList);
-        void GatherInternalSupportingEvidence(byte[] hashFinalKey, byte[] hashOperators, byte[] positionalDataHash, byte[] hashPrivateKey);
+        void GatherInternalSupportingEvidence(byte[] hashFinalKey, byte[] hashOperators, byte[] pointerDataHash, byte[] hashPrivateKey);
 
-        void TryUnlock(bool recieveAuthSupportingEvidence, bool gatherServerSupportingEvidence, bool gatherInternalSupportingEvidence, long privateKey, List<string> operators, List<int> positions);
+        void TryUnlock(bool recieveAuthSupportingEvidence, bool gatherServerSupportingEvidence, bool gatherInternalSupportingEvidence, long privateKey, List<string> operators, List<int> actualPositionData);
         
 
         //if

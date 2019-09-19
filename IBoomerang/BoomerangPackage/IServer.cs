@@ -14,8 +14,11 @@ namespace BoomerangPackage
         T Seed { get; set; }
         T SeedDataToList { get; set; }
 
-        List<int> Positions { get; set; }
+        List<int> PositionData { get; set; }
+        List<int> PointerData { get; set; }
+        byte[] HashPointerData { get; set; }
         List<int> Operators { get; set; }
+        byte[] HashOperators { get; set; }
         string ClientDecryptor { get; set; }
         string AuthDecryptor { get; set;}
         T EncryptedLayer1ServerSharedClientDecryptor { get; set; }
@@ -24,9 +27,9 @@ namespace BoomerangPackage
         T SharedKey { get; set; }
         T PrivateKey { get; set; }
         byte[] Finalkey { get; set; }
-        T EncryptedLayer1PositionalData { get; set; }
-        T EncryptedLayer2PositionalData { get; set; }
-        T EncryptedLayer3PositionalData { get; set; }
+        T EncryptedLayer1PointerData { get; set; }
+        T EncryptedLayer2PointerData { get; set; }
+        T EncryptedLayer3PointerData { get; set; }
 
         //creates relationships between IAuth and IClient. IServer does not have to exist for IClient to share a relationship with it.
 
@@ -35,20 +38,21 @@ namespace BoomerangPackage
         void BreakSeedDataToList(T seed);
         void GrabPosition(T seedPart);
 
-        void EncryptSharedNetworkLayer1ServerPositionalData(List<int> positions); //shares this with IAuth
+        void EncryptSharedNetworkLayer1ServerPointerData(List<int> pointerData); //shares this with IAuth
 
-        void EncryptSharedLayer2ClientPositionalData(T positions); //passed from client
+        void EncryptSharedLayer2ClientPointerData(T pointerData); //passed from client
 
-        void EncryptPrivateLayer3AuthPositionalData(T positions); //sent over network to IAuth from IServer. Decrypted by final decryptor in IAuth.
+        void EncryptPrivateLayer3AuthPointerData(T pointerData); //sent over network to IAuth from IServer. Decrypted by final decryptor in IAuth.
 
-        void PlantAuthData(T encryptedLayer2PositionalData); //see IAuth for more information after deployment
+        void PlantAuthData(T encryptedLayer2PointerData); //see IAuth for more information after deployment
         void EncryptSharedLayer1AuthDecryptor(string decryptor);
 
 
 
         void GenerateClientAndPlantData();
         //In-depth functions of client generate data
-        byte[] CreateHashPositionalData(List<int> positions);
+        byte[] CreateHashPointerData(List<int> pointerData);
+        T CreatePrivateKey(List<int> actualPositionData);
         byte[] PlantFinalKey(T sharedKey, T privateKey); //then IServer passes final key and shared key and private key is provided over the network
         byte[] CreateHashOperators(List<string> operators);
         void EncryptSharedServerLayer1ClientDecryptor(string clientDecryptor); //how layered encryption can happen where this creates a private key from a shared key
