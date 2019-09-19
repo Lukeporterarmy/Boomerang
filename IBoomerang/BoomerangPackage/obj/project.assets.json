@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukep\\Desktop\\BoomerangPackage\\BoomerangPackage\\BoomerangPackage.csproj",
+      "projectUniqueName": "C:\\Users\\lukep\\Desktop\\Boomerang\\IBoomerang\\BoomerangPackage\\BoomerangPackage.csproj",
       "projectName": "BoomerangPackage",
-      "projectPath": "C:\\Users\\lukep\\Desktop\\BoomerangPackage\\BoomerangPackage\\BoomerangPackage.csproj",
+      "projectPath": "C:\\Users\\lukep\\Desktop\\Boomerang\\IBoomerang\\BoomerangPackage\\BoomerangPackage.csproj",
       "packagesPath": "C:\\Users\\lukep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukep\\Desktop\\BoomerangPackage\\BoomerangPackage\\obj\\",
+      "outputPath": "C:\\Users\\lukep\\Desktop\\Boomerang\\IBoomerang\\BoomerangPackage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
