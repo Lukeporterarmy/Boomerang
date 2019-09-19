@@ -6,6 +6,9 @@ namespace BoomerangPackage
 {
     interface IAuth<T>
     {
+
+        //(current state)Encrypt(private or shared keys)Shared(shared with)Client(first level of encryption)SharedLayer1(object name)Decryptor
+
         string DecryptedLayer1DecryptorFromServer { get; set; }
         T DecryptedLayer3PositionalDataFromClient { get; set; } //allows the three way decryption relationship between IServer, IClient, and IAuth
         T DecryptedLayer2PositionalDataFromClient { get; set; }
