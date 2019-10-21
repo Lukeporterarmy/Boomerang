@@ -11,8 +11,7 @@
 ### Software output (what it looks like when it runs) is located at top of the directory.
 
 ### Whiteboard conceptual outline
-
-> ![Code View](https://github.com/programmingportfolio/Boomerang/blob/master/Whiteboard-outline.jpg)
+![Code View](https://github.com/programmingportfolio/Boomerang/blob/master/Whiteboard-outline.jpg)
 
 
 
