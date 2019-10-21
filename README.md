@@ -12,7 +12,7 @@
 
 ### Whiteboard conceptual outline
 
-![Code View](https://github.com/programmingportfolio/Boomerang/blob/master/Whiteboard-outline.jpg)
+> ![Code View](https://github.com/programmingportfolio/Boomerang/blob/master/Whiteboard-outline.jpg)
 
 
 
