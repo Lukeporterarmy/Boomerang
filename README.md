@@ -1,15 +1,12 @@
 # Project Boomerang
 
-## Video whiteboard: bit.ly/videoboomerang
-
-## License is located at top of the directory.
-
-## Working Software is the actual software that can execute.
-
-## IBoomerang is a way to easily read functions, as interfaces, of the original Working Software.
-
-## Software output (what it looks like when it runs) is located at top of the directory.
-
+## Contents
+1. Video whiteboard: bit.ly/videoboomerang
+2. License is located at top of the directory.
+3. Working Software is the actual software that can execute.
+4. IBoomerang is a way to easily read functions, as interfaces, of the original Working Software.
+5. Software output (what it looks like when it runs) is located at top of the directory.
+6. Textual overview and visual whiteboard below.
 
 ### Whiteboard conceptual outline
 ***
