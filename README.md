@@ -1,6 +1,6 @@
 # Project Boomerang
 
-## Contents
+### Contents
 ***
 1. Video whiteboard: bit.ly/videoboomerang
 2. License is located at top of the directory.
