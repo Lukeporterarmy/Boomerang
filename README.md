@@ -15,6 +15,7 @@
 
 
 ### Description
+***
 
 Why do you want this software? Money. Imagine an employee that manages themselves. There is no need to pay a manager anymore. This is essentially what will be happening and why money will be saved on IT infrastructure. This is something that will be completely unique to each company. These concepts also use theories not commonly practiced without closed source licensing software to accomplish similar but unrelated tasks. It gives you complete control to customer software with piece of mind that sources are not referenced in deployment of software. Software locks are a safe way to access applications remotely without a constant connection being established. From a security standpoint, there is less network interaction in general, leading to less of a footprint overall. This makes this combination of industry techniques an interesting viable cost saving feature. The best way to explain exactly how this software works in one sentence is to think of this like an actual boomerang. You can throw the software boomerang out into the abyss and it will eventually come back but it is not connected anymore to where it was thrown until it is returned sequentially to the thrower. You could say it might be like a fishing pole, but that would imply there are strings connecting the tool. A magnetic object that when introduced to a magnet will react.
 
@@ -24,6 +25,7 @@ This is a proof of concept, however, the project can be adapted for customers an
 
 
 ### Technical Description
+***
 
 This is a network authenticated, software locking, server client relationship. This particular project is an installer. This involves use of asynchronous encryption, round robin encryption, network authentication, software dependency change, software locking, and boomeranging software.
 
