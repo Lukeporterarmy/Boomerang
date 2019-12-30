@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -34,7 +34,7 @@ namespace BoomerangPackage
         void NormalWorkflow();
 
 
-        void AwaitDataFromServer(T seedPart);
+        void AwaitDataFromServer(T seedPart, T payload);
 
         T EncryptionForAuth(List<T> seedDataList);
 
@@ -48,11 +48,22 @@ namespace BoomerangPackage
         void GatherInternalSupportingEvidence(byte[] hashFinalKey, byte[] hashOperators, byte[] pointerDataHash, byte[] hashPrivateKey);
 
         void TryUnlock(bool recieveAuthSupportingEvidence, bool gatherServerSupportingEvidence, bool gatherInternalSupportingEvidence, long privateKey, List<string> operators, List<int> actualPositionData);
-        
 
-        //if
-        T Regenerate();
-        void OpenWorkflow(string instructions); //recieves instructions from IServer
+        // if, implement, depends on usage
+        // likely 
+        // T TotalDeletion();
+        // Recycle();
+
+        // maybe
+        // void CloseSession();
+        // return math from regeneration?
+        // T SelfRegeneration();
+
+
+
+        //else
+        // change or open workflow, depends on usage
+        void ChangeWorkflow(string instructions, T payload, T closeSignal); //recieves instructions from IServer
 
 
     }
